@@ -15,5 +15,8 @@
     "concurrently": "^8.0.1",
     "nodemon": "^2.0.22",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@casl/ability": "^6.5.0"
   }
 }
